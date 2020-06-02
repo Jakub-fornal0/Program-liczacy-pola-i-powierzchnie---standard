@@ -1,0 +1,14 @@
+autoscan: warning: missing AC_PROG_CC wanted by: 
+	ltmain.sh:817
+	ltmain.sh:1850
+	ltmain.sh:3378
+	objetosci.h
+	pola.h
+autoscan: warning: missing AC_PROG_CPP wanted by: 
+	ltmain.sh:3378
+autoscan: warning: missing AC_PROG_LN_S wanted by: 
+	ltmain.sh:3465
+	ltmain.sh:5093
+	ltmain.sh:10658
+autoscan: warning: missing AC_PROG_RANLIB wanted by: 
+	ltmain.sh:3772
